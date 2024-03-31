@@ -36,7 +36,7 @@ select {
     
     input[type="radio"],
     select {
-        width: calc(20% - 20px); /* Mengurangi padding dari lebar input */
+        width: calc(25% - 30px); /* Mengurangi padding dari lebar input */
     }
      
         
